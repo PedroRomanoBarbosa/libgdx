@@ -25,6 +25,8 @@ Tendo em conta a metodologia de desenvolvimento do projecto _LibGdx_, metodologi
 
 Embora só haja dois membros que são considerados os proprietários do projeto, qualquer pessoa pode ser um colaborador para o desenvolvimento sem que seja necessário o conhecimento desses membros.
 
+> <font color="gray"> "Me and Nate are the project owners. However, decisions are largely made between everyone in the libGDX org. There are no strict tasks assigned to anyone, but people specialize as outlined above."
+
 # <a name="requirements"> Requerimentos da [LibGDX](https://libgdx.badlogicgames.com/)
 
 ## <a name="elicitation">Elicitação
@@ -77,7 +79,7 @@ Não é necessário, portanto, o controlo sobre os recursos como o de um projeto
 
 ####  __Outubro de 2015__
 
-### Authors:
+### Autores:
 
 * José Pedro Pereira, up201304891@fe.up.pt
 
