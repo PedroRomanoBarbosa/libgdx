@@ -11,8 +11,8 @@
   * [Análise e Negociação](#analisis)
   * [Especificação](#specification)
   * [Validação](#validation)
-  * [Conclusão](#conclusion)
 3. [Casos de Utilização](#use)
+4. [Conclusão](#conclusion)
 
 ---------
 __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é retirado das respostas de um email que nos foi entregue por , [Mario Zechner](http://www.badlogicgames.com/wordpress/?p=3758), criador e proprietário do software que estamos a tratar, que consiste na reposta de algumas perguntas feitas pelo nosso grupo.
