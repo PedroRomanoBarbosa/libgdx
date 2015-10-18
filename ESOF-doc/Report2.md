@@ -12,7 +12,7 @@
   * [Especificação](#specification)
   * [Validação](#validation)
   * [Conclusão](#conclusion)
-3. [Use Cases](#use)
+3. [Casos de Utilização](#use)
 
 ---------
 __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é retirado das respostas de um email que nos foi entregue por , [Mario Zechner](http://www.badlogicgames.com/wordpress/?p=3758), criador e proprietário do software que estamos a tratar, que consiste na reposta de algumas perguntas feitas pelo nosso grupo.
@@ -67,7 +67,14 @@ Podemos assim retirar várias especificações do projeto:
 
 Tirando partido da informação que foi recolhida podemos afirmar que a validação pode ser feita por qualquer membro da organização _LibGDX_ que pode aceitar um _pull request_ ou não de fontes exteriores, normalmente depois de uma troca de opiniões e análise do mesmo pedido.
 
-## Use cases
+## <a name="use">Casos de Utilização
+
+* ### Caso de utilização da LibGDX
+![LibGDX use cases](Resources/screen1.png)
+* ### Caso de utilização de _Input Handling_
+![Input use case](Resources/screen2.png)
+* ### Caso de utilização da GUI(_Graphical User Interface_)
+![GUI use cases](Resources/screen3.png)
 
 ## <a name="conclusion">Conclusão
 
