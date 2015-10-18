@@ -1,4 +1,3 @@
-![FEUP logo](http://conference.mercatura.pt/gequaltec2015/site/images/feup.png)
 ### MIEIC - Mestrado Integrado em Engenharia Informática e Computação
 ### ESOF - Engenharia de Software
 
@@ -23,6 +22,8 @@ Tendo em conta a metodologia de desenvolvimento do projecto _LibGdx_, metodologi
 
 > <font color="gray"> "There's no strict division, everybody is free to choose what to work on. However, some people specialize, e.g. i'm responsible for the build system mostly, nex covers HTML5 and Android, Nate mostly works on scene2d, Xoppa does all things 3D, Tomski covers iOS and so on."
 
+![contributors](Resources/screen7.png)
+
 Embora só haja dois membros que são considerados os proprietários do projeto, qualquer pessoa pode ser um colaborador para o desenvolvimento sem que seja necessário o conhecimento desses membros.
 
 > <font color="gray"> "Me and Nate are the project owners. However, decisions are largely made between everyone in the libGDX org. There are no strict tasks assigned to anyone, but people specialize as outlined above."
@@ -31,7 +32,15 @@ Embora só haja dois membros que são considerados os proprietários do projeto,
 
 ## <a name="elicitation">Elicitação
 
-Novas características para o projeto são criadas a partir de certas necessidades de vários membros da organização através da utilização de [_issues_](https://github.com/libgdx/libgdx/issues) ou até por [_pull requests_](https://github.com/libgdx/libgdx/pulls) feitos por pessoas que querem ver essa característica incorporada no _software_.
+Novas características para o projeto são criadas a partir de certas necessidades de vários membros da organização através da utilização de [_issues_](https://github.com/libgdx/libgdx/issues)
+
+![issues](Resources/screen5.png)
+
+ou até por [_pull requests_](https://github.com/libgdx/libgdx/pulls)
+
+![pulls](Resources/screen6.png)
+
+ feitos por pessoas que querem ver essa característica incorporada no _software_.
 
 As adições ao projeto não são planeadas pelos responsáveis pelo mesmo e certas mudanças podem até surgir de pura curiosidade. O que nos leva a creer que não existe propriamente um cliente final que exige que certas características estejam no projeto.
 
@@ -44,6 +53,8 @@ No que toca à negociação de novas características no projeto chegamos à con
 > <font color="gray"> "Anyone that is part of theGithub libGDX organization is responsible for reviewing and merging changes."
 
 Podemos observar aqui um exemplo dessa troca de impressões e sucessiva aceitação do pedido: https://github.com/libgdx/libgdx/pull/3458
+
+![pedido](Resources/screen4.png)
 
 Existe portanto uma fase de revisão dos pedidos que é realizada por membros da organização _LibGdx_ seguido de uma integração do código ou não no projeto principal.
 
