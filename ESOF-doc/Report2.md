@@ -78,9 +78,10 @@ Tirando partido da informação que foi recolhida podemos afirmar que a validaç
 
 ## <a name="conclusion">Conclusão
 
-Analisando a situação que o projeto LibGdx é um projeto open-source, sem qualquer fim lucrativo, e foi criado para o uso público de estudantes como nós, elementos do grupo.
-
+Analisando a situação, o projeto LibGdx é um projeto open-source, sem qualquer fim lucrativo, e foi criado para o uso público de quem quiser criar uma aplicação ou um jogo.
 Não é necessário, portanto, o controlo sobre os recursos como o de um projeto de uma empresa de software mais profissional.
+
+Sendo assim, faz todo o sentido que a metedologia _Agile_ seja a metedologia mais acertada para este projeto. De facto, e como podemos verificar nos tópicos acima referidos, o fluxo de trabalho deste projeto é bastante dinâmico e flexível e permite que qualquer utilizador adicione algo que ache que seja um benefício ao projeto sem complicações.
 
 ---
 
