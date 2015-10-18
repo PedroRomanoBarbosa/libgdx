@@ -2,26 +2,30 @@
 ### MIEIC - Mestrado Integrado em Engenharia Informática e Computação
 ### ESOF - Engenharia de Software
 
-# Requerimentos da [LibGDX](https://libgdx.badlogicgames.com/)
+
 
 ## Index
-  * [Introdução](#intro)
+1. [Introdução](#intro)
+2. [Requerimentos](#requirements)
   * [Elicitação](#elicitation)
   * [Análise e Negociação](#analisis)
   * [Especificação](#specification)
   * [Validação](#validation)
   * [Conclusão](#conclusion)
+3. [Use Cases](#use)
 
 ---------
-<font color="red"> __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é retirado das respostas de um email que nos foi entregue por , [Mario Zechner](http://www.badlogicgames.com/wordpress/?p=3758), criador e proprietário do software que estamos a tratar, que consiste na reposta de algumas perguntas feitas pelo nosso grupo.
+__Nota:__<font color="black"> Tudo o que está dentro bloco de citações é retirado das respostas de um email que nos foi entregue por , [Mario Zechner](http://www.badlogicgames.com/wordpress/?p=3758), criador e proprietário do software que estamos a tratar, que consiste na reposta de algumas perguntas feitas pelo nosso grupo.
 
-## <a name="intro"></a>Introdução
+# <a name="intro"></a>Introdução
 
 Tendo em conta a metodologia de desenvolvimento do projecto _LibGdx_, metodologia _Agile_, em que várias equipas com diferentes organizações, têm a finalidade de objetivos diferentes, os membros oficiais do projeto foram escolhidos para o cargo por contribuírem para o desenvolvimento do projeto mais frequentemente, apesar de não haver divisões muito estritas.
 
 > <font color="gray"> "There's no strict division, everybody is free to choose what to work on. However, some people specialize, e.g. i'm responsible for the build system mostly, nex covers HTML5 and Android, Nate mostly works on scene2d, Xoppa does all things 3D, Tomski covers iOS and so on."
 
 Embora só haja dois membros que são considerados os proprietários do projeto, qualquer pessoa pode ser um colaborador para o desenvolvimento sem que seja necessário o conhecimento desses membros.
+
+# <a name="requirements"> Requerimentos da [LibGDX](https://libgdx.badlogicgames.com/)
 
 ## <a name="elicitation">Elicitação
 
@@ -56,31 +60,6 @@ Tirando partido da informação que foi recolhida podemos afirmar que a validaç
 Analisando a situação que o projeto LibGdx é um projeto open-source, sem qualquer fim lucrativo, e foi criado para o uso público de estudantes como nós, elementos do grupo.
 
 Não é necessário, portanto, o controlo sobre os recursos como o de um projeto de uma empresa de software mais profissional.
-
-
-
------
-
-
-## Gestão de recursos do projecto:
-
-Tendo em conta a metodologia de desenvolvimento do projecto LibGdx, metodologia Agile, em que várias equipas com diferentes organizações, têm a finalidade de objetivos diferentes.
-
-Os objetivos diferentes de cada equipa é gerido por um membro oficial do projeto Libgdx, que fica a cargo por módulos em que está mais especializado.
-
-Estes membros oficiais do projeto foram escolhidos para o cargo por contribuírem para o desenvolvimento do projeto muito frequentemente.
-
-
-Embora só haja dois membros que são considerados os proprietários do projeto, qualquer pessoa pode ser um colaborador para o desenvolvimento sem que seja necessário o conhecimento desses membros.
-
-As contribuições para a progressão da implementação do projeto LibGdx por parte destes colaboradores comuns não são verificada pelos membros oficias do projeto, mas sim por qualquer colaborador que verifique e se responsabilize pelas modificações no projeto oficial.
-
-
-## Análise:
-
-Na opinião de todos os elementos deste grupo, concordamos que esta metodologia de trabalho, em que cada colaborador do projeto possa ou não associar ao código do projeto oficial as modificações feitas por outro colaborador, não será a opção mais correta, pela razão que um colaborador pode não possuir a experiência necessária ou ter conhecimento suficiente sobre o projeto para decidir o que acontece com as modificações criadas por outros.
-
-Analisando a situação que o projeto LibGdx é um projeto open-source, sem qualquer fim lucrativo, e foi criado para o uso público de estudantes como nós, elementos do grupo; Não é necessário o controlo sobre os recursos como o de um projeto de uma empresa de software mais profissional.
 
 ---
 
