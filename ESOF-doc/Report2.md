@@ -7,10 +7,10 @@
 ## Index
   * [Introdução](#intro)
   * [Elicitação](#elicitation)
-  * [Análise e Negociação](#Análise-e-Negociação)
-  * [Especificação](#Especificação)
-  * [Validação](#Validação)
-  * [Conclusão](#Conclusão)
+  * [Análise e Negociação](#analisis)
+  * [Especificação](#specification)
+  * [Validação](#validation)
+  * [Conclusão](#conclusion)
 
 ---------
 <font color="red"> __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é retirado das respostas de um email que nos foi entregue por , [Mario Zechner](http://www.badlogicgames.com/wordpress/?p=3758), criador e proprietário do software que estamos a tratar, que consiste na reposta de algumas perguntas feitas pelo nosso grupo.
@@ -23,7 +23,7 @@ Tendo em conta a metodologia de desenvolvimento do projecto _LibGdx_, metodologi
 
 Embora só haja dois membros que são considerados os proprietários do projeto, qualquer pessoa pode ser um colaborador para o desenvolvimento sem que seja necessário o conhecimento desses membros.
 
-## Elicitação
+## <a name="elicitation">Elicitação
 
 Novas características para o projeto são criadas a partir de certas necessidades de vários membros da organização através da utilização de [_issues_](https://github.com/libgdx/libgdx/issues) ou até por [_pull requests_](https://github.com/libgdx/libgdx/pulls) feitos por pessoas que querem ver essa característica incorporada no _software_.
 
@@ -31,7 +31,7 @@ As adições ao projeto não são planeadas pelos responsáveis pelo mesmo e cer
 
 > <font color="gray"> "New features are added by libGDX org members or pull requests ... New features are not necessarily planned, they are created on a need basis or out of curiosity."
 
-## Análise e Negociação
+## <a name="analisis">Análise e Negociação
 
 No que toca à negociação de novas características no projeto chegamos à conclusão que existe para cada _pull request_ uma troca de mensagems públicas entre os membros da organização do projeto e o responsável pelo pedido. Durante este processo ambas as partes intervenientes trocam impressões e discutem sobre as modificações feitas(qualquer pessoa poderá dar a sua opinião também). Se não existirem conflitos o pedido é então aceite por um membro da organização e as modificações são adicionadas ao ramo principal do projeto.
 
@@ -41,15 +41,17 @@ Podemos observar aqui um exemplo dessa troca de impressões e sucessiva aceitaç
 
 Existe portanto uma fase de revisão dos pedidos que é realizada por membros da organização _LibGdx_ seguido de uma integração do código ou não no projeto principal.
 
-## Especificação
+## <a name="specification">Especificação
 
 
 
-## Validação
+## <a name="validation">Validação
 
 Tirando partido da informação que foi recolhida podemos afirmar que a validação pode ser feita por qualquer membro da organização _LibGDX_ que pode aceitar um _pull request_ ou não de fontes exteriores, normalmente depois de uma troca de opiniões e análise do mesmo pedido.
 
-## Conclusão
+## Use cases
+
+## <a name="conclusion">Conclusão
 
 Analisando a situação que o projeto LibGdx é um projeto open-source, sem qualquer fim lucrativo, e foi criado para o uso público de estudantes como nós, elementos do grupo.
 
