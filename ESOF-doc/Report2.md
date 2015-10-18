@@ -1,7 +1,7 @@
+![FEUP logo](http://conference.mercatura.pt/gequaltec2015/site/images/feup.png)
+
 ### MIEIC - Mestrado Integrado em Engenharia Informática e Computação
 ### ESOF - Engenharia de Software
-
-
 
 ## Index
 1. [Introdução](#intro)
