@@ -1,23 +1,28 @@
 ![FEUP logo](http://conference.mercatura.pt/gequaltec2015/site/images/feup.png)
-# MIEIC - Mestrado Integrado em Engenharia Informática e Computação
+### MIEIC - Mestrado Integrado em Engenharia Informática e Computação
+### ESOF - Engenharia de Software
 
-# ESOF - Engenharia de Software
+# LibGDX Requirements
 
+## Index
+  * [Introduction](#intro)
+  * [Elicitation](#elicitation)
+  * [Analysis and Negotiation](#analysisAndNeg)
+  * [Specification](#specification)
+  * [Validation](#validation)
+  * [Conclusion](#conclusion)
 
+## Introduction
 
+## Elicitation
 
-__Outubro de 2015__
+## Analysis and Negotiation
 
-* José Pedro Pereira, up201304891@fe.up.pt
+## Specification
 
-* Pedro Romano Barbosa, up201306037@fe.up.pt
+## Validation
 
-* André Pinto, up201303663@fe.up.pt
-
-
-
-# LibGDX
-
+## <a name="conclusion"></a>Conclusion
 
 
 ## Gestão de recursos do projecto:
