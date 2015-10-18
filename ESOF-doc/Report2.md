@@ -71,9 +71,9 @@ Tirando partido da informação que foi recolhida podemos afirmar que a validaç
 
 ### Caso de utilização da LibGDX
 ![LibGDX use cases](Resources/screen1.png)
-### Caso de utilização de _Input Handling_
-![Input use case](Resources/screen2.png)
 ### Caso de utilização da GUI(_Graphical User Interface_)
+![Input use case](Resources/screen2.png)
+### Caso de utilização de _Input Handling_
 ![GUI use cases](Resources/screen3.png)
 
 ## <a name="conclusion">Conclusão
