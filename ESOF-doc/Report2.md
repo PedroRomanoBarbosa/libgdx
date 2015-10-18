@@ -5,9 +5,9 @@
 # Requerimentos da [LibGDX](https://libgdx.badlogicgames.com/)
 
 ## Index
-  * [Introdução](#Introdução)
-  * [Elicitação](#Elicitação)
-  * [Análise e Negociação](#Análise e Negociação)
+  * [Introdução](#intro)
+  * [Elicitação](#elicitation)
+  * [Análise e Negociação](#Análise-e-Negociação)
   * [Especificação](#Especificação)
   * [Validação](#Validação)
   * [Conclusão](#Conclusão)
@@ -15,7 +15,7 @@
 ---------
 <font color="red"> __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é retirado das respostas de um email que nos foi entregue por , [Mario Zechner](http://www.badlogicgames.com/wordpress/?p=3758), criador e proprietário do software que estamos a tratar, que consiste na reposta de algumas perguntas feitas pelo nosso grupo.
 
-## Introdução
+## <a name="intro"></a>Introdução
 
 Tendo em conta a metodologia de desenvolvimento do projecto _LibGdx_, metodologia _Agile_, em que várias equipas com diferentes organizações, têm a finalidade de objetivos diferentes, os membros oficiais do projeto foram escolhidos para o cargo por contribuírem para o desenvolvimento do projeto mais frequentemente, apesar de não haver divisões muito estritas.
 
@@ -25,7 +25,7 @@ Embora só haja dois membros que são considerados os proprietários do projeto,
 
 ## Elicitação
 
-Novas características para o projeto são criadas a partir de certas necessidades de vários membros da organização ou até por _pull requests_ feitos por pessoas que querem ver essa característica incorporada no _software_.
+Novas características para o projeto são criadas a partir de certas necessidades de vários membros da organização através da utilização de [_issues_](https://github.com/libgdx/libgdx/issues) ou até por [_pull requests_](https://github.com/libgdx/libgdx/pulls) feitos por pessoas que querem ver essa característica incorporada no _software_.
 
 As adições ao projeto não são planeadas pelos responsáveis pelo mesmo e certas mudanças podem até surgir de pura curiosidade. O que nos leva a creer que não existe propriamente um cliente final que exige que certas características estejam no projeto.
 
