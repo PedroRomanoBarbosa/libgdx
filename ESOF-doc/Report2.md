@@ -47,7 +47,19 @@ Existe portanto uma fase de revisão dos pedidos que é realizada por membros da
 
 ## <a name="specification">Especificação
 
+Não existe um documento SRS(System Requirement Specification) da _LibGDX_ no entanto podemos ir buscar informações de várias especificações a outras fontes. Uma delas é a página da [_wiki_](https://github.com/libgdx/libgdx/wiki) do projeto, a [página de características](https://libgdx.badlogicgames.com/features.html) da página oficial, ou até a [documentação](https://libgdx.badlogicgames.com/nightlies/docs/api/) da API.
 
+Podemos assim retirar várias especificações do projeto:
+
+  * Uma _framework_ que serve para a criação de aplicações e jogos para diversas plataformas;
+  * Desenvolvimento _Cross-Platform_ : Só é necessário uma API para muitas outras plataformas;
+  * Suporta audio;
+  * Inclui abstrações de _input_ como por exemplo _touch screen_, teclado, acelerómetro;
+  * Motor físico e abstrações matemáticas;
+  * Abstração de sistema de ficheiros;
+  * Processamento gráfico baseado em _OpenGL_;
+  * Suporta software de terceiros;
+  * Entre outros...
 
 ## <a name="validation">Validação
 
