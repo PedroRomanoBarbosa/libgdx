@@ -44,3 +44,13 @@ As contribuições para a progressão da implementação do projeto LibGdx por p
 Na opinião de todos os elementos deste grupo, concordamos que esta metodologia de trabalho, em que cada colaborador do projeto possa ou não associar ao código do projeto oficial as modificações feitas por outro colaborador, não será a opção mais correta, pela razão que um colaborador pode não possuir a experiência necessária ou ter conhecimento suficiente sobre o projeto para decidir o que acontece com as modificações criadas por outros.
 
 Analisando a situação que o projeto LibGdx é um projeto open-source, sem qualquer fim lucrativo, e foi criado para o uso público de estudantes como nós, elementos do grupo; Não é necessário o controlo sobre os recursos como o de um projeto de uma empresa de software mais profissional.
+
+####  __Outubro de 2015__
+
+### Authors:
+
+* José Pedro Pereira, up201304891@fe.up.pt
+
+* Pedro Romano Barbosa, up201306037@fe.up.pt
+
+* André Pinto, up201303663@fe.up.pt
