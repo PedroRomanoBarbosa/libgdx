@@ -38,7 +38,7 @@ Novas características para o projeto são criadas a partir de certas necessidad
 
 ou até por [_pull requests_](https://github.com/libgdx/libgdx/pulls)
 
-![pulls](Resources/screen6.png)
+![pulls](Resources/Screen6.png)
 
  feitos por pessoas que querem ver essa característica incorporada no _software_.
 
