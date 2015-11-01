@@ -18,15 +18,21 @@
 
 ## <a name="intro"> 1. Introdução
 
+A _LibGDX_, apesar de ser um projeto sem clientes específicos, isto é, é construida a partir de novas ideias dadas pela organização _LibGDX_ ou até por qualquer pessoa que queira contribuir, não se distancia muito de outros projetos mais profissionais no que toca à sua organização de código e design.
 
+Podemos, a partir do conteúdo disponibilizado no _Github_(pastas, ficheiros, código, recursos), desdobrar o projeto e tentar descrever a sua arquitetura, na medida do possível.
+
+Este relatório aborda várias vistas de arquitetura, pelo que irá ser usado o modelo _4+1_ de arquitetura de software para as demonstrar.
 
 ## <a name="design"> 2. Desenho da Arquitetura
 
 
 ## <a name="arqui"> 4+1 Architectural View
 
+Este modelo incorpora quatro vistas de arquitetura que irão ser apresentadas a seguir. Cada vista será representada por um diagrama correspondente. Em algumas vistas foi difícil representar a arquitetura no seu todo pois trata-se de um projeto de grande dimensão e bastante complexo.
 
 ### <a name="logic"> Logic View
+
 
 ### <a name="develop"> Implementation View
 
@@ -42,6 +48,9 @@ No diagrama seguinte não estão representados todos os componentes da _LibGDX_,
 
 ### <a name="physical"> Deployment View
 
+Como este software é principalmente conhecido pela sua flexibilidade no que toca a desenvolvimento para várias plataformas em simultâneo com o mesmo código de base, a _deployment view_ vai ser representada por diversos nós que representam os diversos dispositivos e ambientes em que a aplicação gerada poderá correr.
+
+![issues](Resources/DeploymentDiagram.png)
 
 ## 3. <a name="scenarios">Cenários
 
