@@ -19,6 +19,7 @@
 ## <a name="intro"> 1. Introdução
 
 
+
 ## <a name="design"> 2. Desenho da Arquitetura
 
 
@@ -28,6 +29,14 @@
 ### <a name="logic"> Logic View
 
 ### <a name="develop"> Implementation View
+
+A vista de implementação é representada por diagramas de componentes que mostram os componentes do software e as dependências entre eles. No caso do projeto _LibGDX_ temos um conjunto de componentes que formam a parte central do software denominada por _gdx_ e os restantes que o rodeiam.
+
+Existem também outros componentes importantes que são utilizados para construir a aplicação em diversas plataformas, uma das características da _LibGDX_. São necessários alguns ficheiros, sendo a maioria ficheiros de configuração.
+
+No diagrama seguinte não estão representados todos os componentes da _LibGDX_, pois só estão representados os componentes mais importantes.
+
+![issues](Resources/ComponentDiagram.png)
 
 ### <a name="process"> Process View
 
