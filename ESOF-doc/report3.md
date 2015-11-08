@@ -11,8 +11,7 @@
      + [Implementation View](#develop)
      + [Process View](#process)
      + [Deployment View](#physical)
-3. [Cenários](#scenarios)
-4. [Conclusão](#conclusion)
+3. [Conclusão](#conclusion)
 
 
 
@@ -57,7 +56,5 @@ Como este software é principalmente conhecido pela sua flexibilidade no que toc
 
 ![issues](Resources/DeploymentDiagram.png)
 
-## 3. <a name="scenarios">Cenários
 
-
-## 4. <a name="conclusion"> Conclusão
+## 3. <a name="conclusion"> Conclusão
