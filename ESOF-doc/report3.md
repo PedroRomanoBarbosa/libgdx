@@ -33,9 +33,9 @@ Este modelo incorpora quatro vistas de arquitetura que irão ser apresentadas a 
 
 ### <a name="logic"> Logic View
 
-A vista da lógica é representada por um diagrama de pacotes que mostra o agrupamento dos diferentes elementos do software. No caso do LibGDX temos um pacote que engloba todos os outros, denominado _gdx_. Também existem dependencias com pacotes pertencentes às bibliotecas "standard" de _Java_, mas por razões de praticalidade decidimos não as incluir no diagrama, representando apenas o que diz respeito apenas ao próprio _LibGDX_.
+A vista da lógica é representada por um diagrama de pacotes que mostra o agrupamento dos diferentes elementos do software. No caso do LibGDX temos um pacote que engloba todos os outros, denominado _gdx_. Também existem dependências com pacotes pertencentes às bibliotecas "standard" de Java, mas por razões de praticidade decidimos não as incluir no diagrama, representando apenas o que diz respeito apenas ao próprio _LibGDX_.
 
-Dentro do pacote _gdx_ ainda podemos distinguir um outro pacote _tests_ que se dedica à maioria dos testes, e os pacotes _tools_, _physics_, _controllers_, _tiledmappacker_, _freetype_, _jnigen_ e _setup_ que compoem as extensões dos quais um projecto que use esta framework pode, ou não usar, não fazendo parte do núcleo essencial do _LibGDX_.
+Dentro do pacote _gdx_ ainda podemos distinguir um outro pacote _tests_ que se dedica à maioria dos testes, e os pacotes _tools_, _physics_, _controllers_, _tiledmappacker_, _freetype_, _jnigen_ e _setup_ que compõem as extensões dos quais um projecto que use esta framework pode, ou não usar, não fazendo parte do núcleo essencial do _LibGDX_.
 
 ![issues](Resources/PackageDiagram.png)
 
