@@ -58,3 +58,5 @@ Como este software é principalmente conhecido pela sua flexibilidade no que toc
 
 
 ## 3. <a name="conclusion"> Conclusão
+
+Sendo o projeto _LibGDX_ um projeto não comercial, isto é, não existe a venda do framework pois todas as pessoas podem descarregar e usufruir deste gratuitamente, não tem os mesmos métodos de trabalho e desenvolvimento que um produto mais virado para o comércio teria. Consequentemente, a sua arquitetura não está tão bem organizada e foi por vezes um desafio conseguir extrapolar um diagrama que representasse corretamente esta. Foi particularmente difícil no diagrama de processos pois, tratando-se de uma framework, a _LibGDX_ não é um programa já bem definido que o utilizador corre como seria de esperar de uma aplicação, mas sim uma biblioteca de ferramentas desenhada para o utilizador conseguir criar e desenvolver as suas próprias aplicações.
