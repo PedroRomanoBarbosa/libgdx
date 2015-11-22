@@ -51,6 +51,8 @@ __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é ret
 
 ### <a name="isol"> _Isolateability_
   Como é criada uma situação específica para cada teste diferente, o grau em que os testes podem ser corridos isoladamente é também elevado. Para cada teste é iniciado um "projecto" exemplo, logo cada teste é tratado isoladamente.
+  No exemplo a seguir, por exemplo, consegue-se ver que é criado então uma situação específica para um teste específico. Cada teste procede da mesma maneira, sem haver cruzamentos entre situações ou testes.
+!{LibGDX testClassExample}(Resources/report4Image4.png)
 
 ### <a name="sep"> Separação de Preocupações
 
