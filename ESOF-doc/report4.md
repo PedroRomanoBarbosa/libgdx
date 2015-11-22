@@ -44,10 +44,13 @@ __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é ret
   Sendo assim, os próximos tópicos serão referentes a essa parte do projeto assim como a um possível melhoramento sugerido pelos elementos do grupo.
 
 ### <a name="control"> Controlabilidade
+  Este projecto tem um grau baixo de Controlabilidade, visto que os testes estão feitos para situações específicas e não mutáveis. Para cada teste é criado um projecto modelo apenas com as componentes em teste, o que não permite um grande angulo de ambiguidade.
 
 ### <a name="observ"> Observabilidade
+  A Observabilidade dos testes neste projecto é bastante grande, visto que, como já foi dito, maior parte deles são verificados manualmente, através da análise dos resultados.
 
 ### <a name="isol"> _Isolateability_
+  Como é criada uma situação específica para cada teste diferente, o grau em que os testes podem ser corridos isoladamente é também elevado. Para cada teste é iniciado um "projecto" exemplo, logo cada teste é tratado isoladamente.
 
 ### <a name="sep"> Separação de Preocupações
 
@@ -65,6 +68,7 @@ Em termos de compreensão do código das classes de teste podemos afirmar que ca
 Apesar do projeto conter várias classes com documentação, existem muitas classes de teste que não têm comentários sequer. A API da LibGDX embora seja de fácil compreensão proviniente da boa prática de nomeação de classes, membros e funções não é suficiente para a total compreensão das classes de teste pelo que concluimos que o grau de compreensibilidade é baixo.
 
 ### <a name="hetero"> Heterogeneidade
+  
 
 ## <a name="statistics"> Estatísticas de Teste
 
