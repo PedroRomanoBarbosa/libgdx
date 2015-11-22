@@ -33,7 +33,7 @@ __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é ret
 
 ## <a name="grau"> 2. Grau de Testabilidade
 
-  Como já foi referido, o grau de testabilidade do projeto é bastante pequeno. A maior razão para isto é o projeto ser baseado em OpenGL e ter componentes de audio e por isso os seus componentes não são propícios para testes. Contudo existe dentro do projeto um diretório reservado para testes de API que são executados e avaliados manualmente.
+  Como já foi referido, o grau de testabilidade do projeto é bastante pequeno. A maior razão para isto é o projeto ser baseado em OpenGL e ter componentes de áudio e por isso os seus componentes não são propícios para testes. Contudo existe dentro do projeto um diretório reservado para testes de API que são executados e avaliados manualmente.
 
   > <font color="gray"> "It contains functional tests as well as a few unit tests for non-graphical functionality. The functional tests are to be executed and evaluated manually. Automated testing is not possible with OpenGL based rendering."
 
@@ -68,5 +68,12 @@ Apesar do projeto conter várias classes com documentação, existem muitas clas
 
 ## <a name="statistics"> Estatísticas de Teste
 
+Como já foi referido anteriormente, o projeto da LibGDX não segue a prática de TDD(_Test Driven Development_) e por isso os seus testes são reduzidos a testes de API e são avaliados manualmente. Sendo assim é muito difícil encontrar testes unitários nas classes de testes pois estes são bastante raros.
+
+Sendo assim, não será possível fazer uma cobertura legítima do código recorrendo a certas ferramentas, como por exemplo o _EclEmma_.
 
 ## 3. <a name="conclusion"> Conclusão
+
+Visto que a testabilidade do projeto LibGDX é bastante pequena(consequência de ser uma _framework_ de desenvolvimento de aplicações com objetivo não comercial e por utilizar OpenGL e módulos de áudio) não foi possível retirar do projeto informação rica sobre desenvolvimento de testes.
+
+Contudo, Foi possível retirar uma melhor compreensão do método de testes deste projeto. Conclui-se, portanto, que uma maneira de melhorar a testabilidade dos módulos de software da LibGDX seria aplicar mais testes unitários a componentes que não são dependentes de OpenGL e áudio.
