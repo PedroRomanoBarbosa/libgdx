@@ -44,7 +44,7 @@ __Nota:__<font color="black"> Tudo o que está dentro bloco de citações é ret
   Sendo assim, os próximos tópicos serão referentes a essa parte do projeto assim como a um possível melhoramento sugerido pelos elementos do grupo.
 
 ### <a name="control"> Controlabilidade
-  Este projecto tem um grau baixo de Controlabilidade, visto que os testes estão feitos para situações específicas e não mutáveis. Para cada teste é criado um projecto modelo apenas com as componentes em teste, o que não permite um grande angulo de ambiguidade.
+  Este projecto tem um grau baixo de Controlabilidade, visto que os testes estão feitos para situações específicas e não mutáveis. Para cada teste é criado um projecto modelo apenas com as componentes em teste, o que não permite muita flexibilidade.
 
 ### <a name="observ"> Observabilidade
   A Observabilidade dos testes neste projecto é bastante grande, visto que, como já foi dito, maior parte deles são verificados manualmente, através da análise dos resultados.
