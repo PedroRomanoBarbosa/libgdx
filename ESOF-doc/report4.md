@@ -70,7 +70,7 @@ Em termos de compreensão do código das classes de teste podemos afirmar que ca
 Apesar do projeto conter várias classes com documentação, existem muitas classes de teste que não têm comentários sequer. A API da LibGDX embora seja de fácil compreensão proviniente da boa prática de nomeação de classes, membros e funções não é suficiente para a total compreensão das classes de teste pelo que concluimos que o grau de compreensibilidade é baixo.
 
 ### <a name="hetero"> Heterogeneidade
-  
+  O projecto faz uso de diferentes tecnologias, mas o método de testes não varia nem são utilizadas ferramentas em paralelo para efectuar os testes
 
 ## <a name="statistics"> Estatísticas de Teste
 
