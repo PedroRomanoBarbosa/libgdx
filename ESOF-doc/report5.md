@@ -113,4 +113,9 @@ Posteriormente foi adicionado mais um commit que visava aumentar a eficiência d
 ![pull request2](Resources/rep5screen9.png)
 Retirada de: https://github.com/libgdx/libgdx/pull/3637
 
-Até ao momento da conclusão deste _deliverable_ o _pull request_ parece não ter tido nenhuma análise por parte da comunidade da LibGDX.
+Infelizmente o _pull request_ não foi aceite, visto que se tratava de uma funcionalidade muito específica. Foi ainda referido pelo encarregado da supervisão deste _pull request_ que poderiamos contribuir para a página da wiki relativa a esta funcionalidade( acima referida).
+
+![pull request2](Resources/rep5screen10.png)
+Retirada de: https://github.com/libgdx/libgdx/pull/3637
+
+A discussão proveninete do encerramento do _pull request_ pode ser visualizada aqui: https://github.com/libgdx/libgdx/pull/3637
