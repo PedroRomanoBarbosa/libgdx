@@ -3,6 +3,15 @@
 ### MIEIC - Mestrado Integrado em Engenharia Informática e Computação
 ### ESOF - Engenharia de Software
 
+
+__Dezembro de 2015__
+
+* José Pedro Pereira, up201304891@fe.up.pt
+
+* Pedro Romano Barbosa, up201306037@fe.up.pt
+
+* André Pinto, up201303663@fe.up.pt
+
 # Implementação e melhoramento de uma _feature_
 
 ## Índice
@@ -14,7 +23,6 @@
    * 2.4 [Código](#code)
    * 2.5 [Testes](#testes)
    * 2.6 [_Pull Request_](#pull)
-4. [Conclusão](#conclusion)
 
 
 ## <a name="intro"> 1. Introdução
@@ -100,5 +108,9 @@ O _pull request_ foi feito através do _branch_ __capturer__ deste repositório:
 ![pull request](Resources/rep5screen8.png)
 Retirada de: https://github.com/libgdx/libgdx/pull/3637
 
+Posteriormente foi adicionado mais um commit que visava aumentar a eficiência do método __getScreenshot__, nomeadamente na chamada da função __manipulate__.
 
-## 3. <a name="conclusion"> Conclusão
+![pull request2](Resources/rep5screen9.png)
+Retirada de: https://github.com/libgdx/libgdx/pull/3637
+
+Até ao momento da conclusão deste _deliverable_ o _pull request_ parece não ter tido nenhuma análise por parte da comunidade da LibGDX.
