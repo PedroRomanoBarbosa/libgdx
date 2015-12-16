@@ -118,4 +118,4 @@ Infelizmente o _pull request_ não foi aceite, visto que se tratava de uma funci
 ![pull request2](Resources/rep5screen10.png)
 Retirada de: https://github.com/libgdx/libgdx/pull/3637
 
-A discussão proveninete do encerramento do _pull request_ pode ser visualizada aqui: https://github.com/libgdx/libgdx/pull/3637
+A discussão proveniente do encerramento do _pull request_ pode ser visualizada aqui: https://github.com/libgdx/libgdx/pull/3637
